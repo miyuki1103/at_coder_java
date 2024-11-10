@@ -1,3 +1,5 @@
+// https://atcoder.jp/contests/adt_easy_20241105_1/tasks/abc245_a
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
